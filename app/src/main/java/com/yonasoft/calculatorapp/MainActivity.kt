@@ -15,7 +15,6 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.yonasoft.calculatorapp.ui.theme.CalculatorAppTheme
 import com.yonasoft.calculatorapp.ui.theme.MediumGray
 
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
